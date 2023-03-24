@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RGU Homepage</title>
+</head>
+<body>
+<!--START OF HEADER-->
+<header>
+<div id="quicklinks">
+    <ul>
+        <li><a href ="#">Home</a></li>
+        <li><a href ="#">About</a></li>
+        <li><a href ="#">RGYou</a></li>
+        <li><a href ="#">Staff & Current Students</a></li>
+        <li><a href ="#">A to Z</a></li>
+    </ul>
+</div>
+</header>
+<!--END OF HEADER-->
+
+<!--START OF MAIN-->
+<main>
+
+</main>
+<!--END OF MAIN-->
+
+<!--START OF FOOTER-->
+<footer>
+
+</footer>
+<!--END OF FOOTER-->
+
+</body>
+</html>
