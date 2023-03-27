@@ -1,0 +1,1 @@
+Outline solution for lab 7a - using cookies

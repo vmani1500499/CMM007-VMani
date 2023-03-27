@@ -27,7 +27,7 @@ if (isset($_SESSION['user']) && isset($_SESSION['password'])) {
     session_destroy();
 
 // Redirect the user to the homepage
-    header('Location: home.html');
+    header('Location: article.html');
 
 } else {
     echo "User not logged in";
