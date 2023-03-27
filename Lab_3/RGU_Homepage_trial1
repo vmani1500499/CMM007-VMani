@@ -14,8 +14,41 @@
         <li><a href ="#">RGYou</a></li>
         <li><a href ="#">Staff & Current Students</a></li>
         <li><a href ="#">A to Z</a></li>
-    </ul>
+    </ul>  
 </div>
+<img id="rgu_logo" src="robertgordonlogo.jpeg" alt="Robert Gordon University"/>
+<div id="seachbox">
+    <form>
+    <p>Search</p>
+    <input type="text" name="searchfield">
+    <input type="submit" value="Go">
+    </form>
+</div>
+<nav>
+    <ul>
+    <li><a href ="#">Areas of Study</a></li>
+    <li><a href ="#">Future Students</a></li>
+    <li><a href ="#">...</a></li>
+    <li><a href ="#">Contact Us</a></li>
+    </ul>
+</nav>
+<form>
+    <input type="text" name="keywordbox" value="Enter Keyword">
+    <select>
+    <option value="compsci">Computer Science</option>
+    <option value="digmed">Digital Media</option>
+    <option value="network">Computer Network Management and Design</option>
+    <option value="other">Other</option>
+    </select>
+    <input type="submit" value="search">
+</form>
+<ul>
+    <li>Architeture, Construction & Surveying</li>
+    <li>Business, Management & Accounting</li>
+    <li>Engineering</li>
+    <li>...</li>
+    </ul>
+   
 </header>
 <!--END OF HEADER-->
 
